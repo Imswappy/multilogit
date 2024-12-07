@@ -99,4 +99,6 @@ While the model provides valuable insights, it is essential to approach the find
 
 As we conclude this analysis, it's pertinent to acknowledge that modeling is an iterative process. Future directions involve refining the model, exploring alternative specifications, and incorporating additional factors to enhance predictive accuracy. Additionally, further analysis could include assessing the model's performance on external datasets and conducting sensitivity analyses to gauge the robustness of the findings.
 
+The purpose of this analysis is to implement a multinomial logit model using Python. The goal is to calculate the probabilities of different alternatives based on a set of parameters and independent variables.
+
 
